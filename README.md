@@ -1,3 +1,13 @@
-<img disabled src="https://raw.githubusercontent.com/Tectors/stats/e28c895134de7ee08d5d69dd8723eaf8d96c7d20/generated/overview.svg">
+# Hello!
 
-Hey, I am a designer which uses [Adobe XD](https://www.adobe.com/products/xd.html) to design and create designs for my html and css projects, I also use languages like javascript and nodejs, I plan to learn typescript.
+Welcome to my profile my name is Tector (online-name) and I am fifteen years old and study games to gain more knowledge and love to see how many games are made in engines such as Unreal Engine and unity, and is starting to C++ and is having fun.
+
+- A nice guy
+- Likes helping others that are good
+- A programmer currently learning C++
+- Am excellent at: Python, JS, CSS, UE4 C++
+- Loves to automate
+
+My hobbies include: Unreal Engine, programming, art, and designing (XD, CSS) 
+
+You can contact me on [Discord](https://discord.com/), at Tector#3137
