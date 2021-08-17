@@ -4,7 +4,7 @@ Welcome to my profile my name is Tector (online-name) and I am fifteen years old
 
 - A nice guy
 - Nerd 🤓
-- Likes helping others that are good
+- Likes helping others
 - A programmer currently learning C++
 - Am excellent and have a lot of experience at: Python, JS, CSS, UE4 C++
 - Loves to automate
