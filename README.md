@@ -10,8 +10,11 @@ Welcome to my profile my name is Tector (online-name) and I am fifteen years old
 - Loves to automate
 - Free to write articles and school work, catch me before school starts *(10$ hourly)*
 
-My hobbies include: Unreal Engine, programming, art, and designing (XD, CSS) 
-
+## Hobbies
+- Unreal Engine
+- Programming
+- Art
+- Designing
 
 ## Contactable at:
 - [Discord](https://discord.com/) | Tector#3137
