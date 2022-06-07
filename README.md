@@ -2,7 +2,7 @@
   <img width="80%" height="100%" src="https://raw.githubusercontent.com/Tectors/Tectors/main/b.svg">
 </p>
 
-Welcome to my profile my name is Tector (online-name) and I am fifteen years old and study games to gain more knowledge and love to see how many games are made in engines such as Unreal Engine.
+Welcome to my profile my name is Tector (online-name) and I am sixteen years old and study games to gain more knowledge and love to see how many games are made in engines such as Unreal Engine.
 
 I am starting to C++ and is am enjoying it.
 
