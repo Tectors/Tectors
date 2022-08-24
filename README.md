@@ -21,4 +21,4 @@ I am starting to C++ and is am enjoying it.
 - Designing
 
 ## Contactable at:
-- [Discord](https://discord.com/) | Tector#3137
+- [Discord](https://discord.com/) | Tector#7383
