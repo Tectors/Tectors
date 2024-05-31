@@ -2,8 +2,7 @@
 
 I am known online as [Tector](https://x.com/t3ctor). I create projects for others to use as resources and tools for people to have a better workflow! I enjoy doing these things :)
 
-> [@t3ctor on X](https://x.com/t3ctor)
-> 
+> [@t3ctor on X](https://x.com/t3ctor)<br />
 > [@.tector on discord](https://x.com/t3ctor)
 
 #### People I've worked with
