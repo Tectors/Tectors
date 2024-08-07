@@ -16,11 +16,9 @@ I am known online as [Tector](https://x.com/t3ctor). I create projects for other
 * **[EpicGraphQL](https://github.com/Tectors/EpicGraphQL):** Created by me
   * **Description »** Research about the Epic's non-documented Graphql API and main API, using Fiddler and Developer Tools to find requests and add them.
 
-### ProjectEraFN
-Creating experiences for ProjectEraFN within UEFN. Join the server below.
-
+### Quakz Community
 <p align="">
-    <a href="http://discord.gg/erafn">
-        <img src="https://discordapp.com/api/guilds/802558747695120414/widget.png?style=banner4" width="250px;" alt="Era Discord Server"/>
+    <a href="http://discord.gg/quakz">
+        <img src="https://discordapp.com/api/guilds/1270127316617400400/widget.png?style=banner2&theme=dark" width="250px;" alt="Era Discord Server"/>
     </a>
 </p>
