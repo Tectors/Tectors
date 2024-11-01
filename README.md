@@ -1,11 +1,8 @@
 # Welcome!
 
-I am known online as [Tector](https://x.com/t3ctor). I create projects for others to use as resources and tools for people to have a better workflow! I enjoy doing these things :)
+You may know from creating JsonAsAsset or doing UEFN. I like making tools, and work in, C++, C#, JS, PY.
 
-> [@t3ctor on X](https://x.com/t3ctor)<br />
-> [@.tector on discord](https://x.com/t3ctor)
-
-#### People I've worked with
+### People I've worked with
 > [@TheBoyDilly](https://x.com/TheBoyDilly), [@DAN7EH](https://x.com/DAN7EH), [@GMatrixGames](https://x.com/GMatrixGames), [@CodeBrux](https://x.com/CodeBrux), [@Socksfor1](https://x.com/Socksfor1), [@ZyloxMods](https://x.com/ZyloxMods), [@NotLucFN](https://x.com/NotLucFN), [@Steinerfn](https://x.com/Steinerfn), [@itsLachyz](https://x.com/itsLachyz), [@codeasch](https://x.com/codeasch), [@official_trimix](https://x.com/official_trimix)
 
 ## Personal Projects
