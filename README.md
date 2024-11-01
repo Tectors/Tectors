@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I created [JsonAsAsset](https://github.com/JsonAsAsset/JsonAsAsset) a Unreal Engine plugin to convert JSON to assets. I program in C#, C++, Python, JavaScript.
+I created [JsonAsAsset](https://github.com/JsonAsAsset/JsonAsAsset) a Unreal Engine plugin to convert JSON to assets. I program in C#, C++, Python, JavaScript and create advanced systems.
 
 ⭐ I also make maps in [UEFN](https://dev.epicgames.com/community/fortnite/getting-started/uefn) and publish them to my creator profile [fortnite.com/@totem](https://www.fortnite.com/@totem).
 
@@ -18,6 +18,11 @@ I created [JsonAsAsset](https://github.com/JsonAsAsset/JsonAsAsset) a Unreal Eng
   * **Description »** fn-archive is a archive of Fortnite manifests, encryption keys, mappings and meta-data for recent versions, updated automatically from different APIs including [Fortnite-API](https://fortnite-api.com).
 * **[EpicGraphQL](https://github.com/Tectors/EpicGraphQL):**
   * **Description »** Research about the Epic's non-documented Graphql API and main API, using Fiddler and Developer Tools to find requests and add them
+
+--------
+
+I've researched a lot about Fortnite's system to become more educated in the Unreal Engine scene, and it's been really fun. It's helped me out in programming aswell.
+> My gists: https://gist.github.com/Tectors
 
 --------
 
