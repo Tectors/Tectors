@@ -11,13 +11,10 @@ I created [JsonAsAsset](https://github.com/JsonAsAsset/JsonAsAsset) a Unreal Eng
 > [@TheBoyDilly](https://x.com/TheBoyDilly), [@DAN7EH](https://x.com/DAN7EH), [@GMatrixGames](https://x.com/GMatrixGames), [@CodeBrux](https://x.com/CodeBrux), [@Socksfor1](https://x.com/Socksfor1), [@ZyloxMods](https://x.com/ZyloxMods), [@NotLucFN](https://x.com/NotLucFN), [@Steinerfn](https://x.com/Steinerfn), [@itsLachyz](https://x.com/itsLachyz), [@codeasch](https://x.com/codeasch), [@official_trimix](https://x.com/official_trimix)
 
 **Personal Projects**: 🆚
-<br> 
-* **[JsonAsAsset](https://github.com/JsonAsAsset/JsonAsAsset):**
-  * **Description »** JsonAsAsset, an Unreal Engine plugin to create assets from JSON outputs of game files from [FModel](https://github.com/4sval/FModel).
-* **[fn-archive](https://github.com/Tectors/fn-archive):**
-  * **Description »** fn-archive is a archive of Fortnite manifests, encryption keys, mappings and meta-data for recent versions, updated automatically from different APIs including [Fortnite-API](https://fortnite-api.com).
-* **[EpicGraphQL](https://github.com/Tectors/EpicGraphQL):**
-  * **Description »** Research about the Epic's non-documented Graphql API and main API, using Fiddler and Developer Tools to find requests and add them
+
+[![JsonAsAsset, an Unreal Engine plugin to create assets from JSON outputs of game files from FModel.](https://github-readme-stats.vercel.app/api/pin/?username=JsonAsAsset&repo=JsonAsAsset)](https://github.com/JsonAsAsset/JsonAsAsset)
+[![fn-archive is a archive of Fortnite manifests, encryption keys, mappings and meta-data for recent versions, updated automatically from different APIs including Fortnite-API.](https://github-readme-stats.vercel.app/api/pin/?username=Tectors&repo=fn-archive)](https://github.com/Tectors/fn-archive)
+[![Research about the Epic's non-documented Graphql API and main API, using Fiddler and Developer Tools to find requests and add them](https://github-readme-stats.vercel.app/api/pin/?username=Tectors&repo=EpicGraphQL)](https://github.com/Tectors/EpicGraphQL)
 
 --------
 
