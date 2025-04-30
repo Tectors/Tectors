@@ -22,10 +22,3 @@ I've researched a lot about Fortnite's system to become more educated in the Unr
 > My gists: https://gist.github.com/Tectors
 
 --------
-
-**My Discord Server**:
-<br> <p align="">
-    <a href="http://discord.gg/quakz">
-        <img src="https://discordapp.com/api/guilds/1270127316617400400/widget.png?style=banner2&theme=dark" width="300px;" alt="Era Discord Server"/>
-    </a>
-</p>
