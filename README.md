@@ -20,5 +20,3 @@ I created [JsonAsAsset](https://github.com/JsonAsAsset/JsonAsAsset) a Unreal Eng
 
 I've researched a lot about Fortnite's system to become more educated in the Unreal Engine scene, and it's been really fun. It's helped me out in programming aswell.
 > My gists: https://gist.github.com/Tectors
-
---------
