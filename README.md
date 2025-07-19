@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I created [JsonAsAsset](https://github.com/JsonAsAsset/JsonAsAsset) a Unreal Engine plugin to convert JSON to assets. I program in C#, C++, Python, JavaScript.
+I created [JsonAsAsset](https://github.com/JsonAsAsset/JsonAsAsset) a Unreal Engine plugin to convert JSON to assets. I program in C#, C++, Python, and JavaScript.
 
 ⭐ I also make maps in [UEFN](https://dev.epicgames.com/community/fortnite/getting-started/uefn) and publish them to my creator profile [fortnite.com/@totem](https://www.fortnite.com/@totem).
 
